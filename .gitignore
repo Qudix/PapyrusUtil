@@ -1,4 +1,2 @@
-.vs
-Release/*
-x64/*
+/build
 PapyrusUtil.7z

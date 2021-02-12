@@ -1,0 +1,23 @@
+set(sources ${sources}
+	src/Asm.cpp
+	src/Data.cpp
+	src/DataStore.cpp
+	src/External.cpp
+	src/Forms.cpp
+	src/FormsOld.cpp
+	src/main.cpp
+	src/PackageData.cpp
+	src/PCH.cpp
+	src/Plugin.cpp
+	src/SafeRead.cpp
+	src/Serialize.cpp
+	src/Storage.cpp
+	src/json/jsoncpp.cpp
+	src/Papyrus/ActorUtil.cpp
+	src/Papyrus/AnimUtil.cpp
+	src/Papyrus/JsonUtil.cpp
+	src/Papyrus/MiscUtil.cpp
+	src/Papyrus/ObjectUtil.cpp
+	src/Papyrus/PapyrusUtil.cpp
+	src/Papyrus/StorageUtil.cpp
+)

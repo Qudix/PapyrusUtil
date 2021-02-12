@@ -1,0 +1,11 @@
+{
+    "name": "papyrusutil",
+    "version-string": "0.0.0",
+    "description": "PapyrusUtil",
+    "homepage": "https://github.com/eeveelo/PapyrusUtil",
+    "license": "",
+    "dependencies": [
+      "boost-stl-interfaces",
+      "spdlog"
+    ]
+  }

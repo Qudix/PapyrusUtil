@@ -1,0 +1,23 @@
+set(headers ${headers}
+	src/Asm.h
+	src/Data.h
+	src/DataStore.h
+	src/External.h
+	src/FormData.h
+	src/Forms.h
+	src/PackageData.h
+	src/PCH.h
+	src/Plugin.h
+	src/SafeRead.h
+	src/Serialize.h
+	src/Storage.h
+	src/json/json-forwards.h
+	src/json/json.h
+	src/Papyrus/ActorUtil.h
+	src/Papyrus/AnimUtil.h
+	src/Papyrus/JsonUtil.h
+	src/Papyrus/MiscUtil.h
+	src/Papyrus/ObjectUtil.h
+	src/Papyrus/PapyrusUtil.h
+	src/Papyrus/StorageUtil.h
+)
